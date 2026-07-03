@@ -110,8 +110,8 @@ lines=&hearts;++;Self-taught+Front-End+Developer,;Computer+Science+Student,;CTF+
 <br>
 
 <li>
-<a href="mailto:romeeguizabal@gmail.com" target="_blank">
-<img src="https://img.shields.io/badge/gmail:  Romeo-EH%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white" t=mail style="margin-bottom: 5px;" />
+<a href="mailto:romeeguizabal@gmail.com">
+<img src="https://shields.io" alt="Gmail" style="margin-bottom: 5px;" />
 </a>
 </li>
 	
