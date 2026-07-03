@@ -86,7 +86,7 @@ lines=&hearts;++;Self-taught+Front-End+Developer,;Computer+Science+Student,;CTF+
 
 <li>
 <a href="mailto:romeeguizabal@gmail.com" target="_blank">
-<img src="https://img.shields.io/badge/gmail:  Romeo-EH-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white" t=mail style="margin-bottom: 5px;" />
+<img src="https://img.shields.io/badge/gmail:  Romeo_EH-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white" alt=mail style="margin-bottom: 5px;" />
 </a>
 </li>
 	
