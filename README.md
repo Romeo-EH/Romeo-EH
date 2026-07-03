@@ -10,7 +10,7 @@
 
 
 	
-##About Me
+## **About Me**
 <br>
 
 - A passionate Self-taught Front-end developer
