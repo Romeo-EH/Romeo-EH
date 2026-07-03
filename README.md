@@ -1,5 +1,5 @@
 
-<h1 align="center"><b>Hola , Soy Romeo Eguizabal Huaman </b><img src="blob:https://makeemoji.com/c0efdd01-f5d9-4d0c-a6b3-b8683e0e5bf0" width="35"></h1>
+<h1 align="center"><b>Hola , Soy Romeo Eguizabal Huaman </b><img src="none (1).png" width="35"></h1>
 <!--  -->A
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Assalamu+O+Alaikum+Warahmatullah..&hearts;++;Self-taught+Front-End+Developer,;Computer+Science+Student,;CTF+Newbie,;Active+Learner/Researcher,;Love+to+learn+new+stuffs..<3"></a>
