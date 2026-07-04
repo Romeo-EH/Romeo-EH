@@ -26,7 +26,7 @@
 
 - **Languages**:
     
-    ![JAVA](https://img.shields.io/badge/JAVA%20-%232370ED.svg?style=for-the-badge&logo=java&logoColor=white)
+    ![JAVA](https://img.shields.io/badge/JAVA%20-%232370ED.svg?style=for-the-badge&logo=Java&logoColor=white)
     ![PHP](https://img.shields.io/badge/PHP%20-%2300599C.svg?style=for-the-badge&logo=php&logoColor=white)
     ![Python](https://img.shields.io/badge/Python%20-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white)
 
@@ -42,7 +42,7 @@
 - **Base de Datos**:
 
    ![MySQL](https://img.shields.io/badge/MySQL%20-%da9835.svg?style=for-the-badge&logo=MySQL&logoColor=white)
-   ![SQL SERVER](https://img.shields.io/badge/SQLSERVER%20-%808080.svg?style=for-the-badge&logo=SQL+SERVER&logoColor=white)
+   ![SQL SERVER](https://img.shields.io/badge/SQLSERVER%20-%bbb3b3b2.svg?style=for-the-badge&logo=SQL+SERVER&logoColor=white)
 
 <br>
 
