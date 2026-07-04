@@ -42,7 +42,7 @@
 - **Base de Datos**:
 
    ![MySQL](https://img.shields.io/badge/MySQL%20-%da9835.svg?style=for-the-badge&logo=MySQL&logoColor=white)
-   ![SQL SERVER](https://img.shields.io/badge/SQL-SERVER%20-%808080.svg?style=for-the-badge&logo=css3&logoColor=white)
+   ![SQL SERVER](https://img.shields.io/badge/SQL+SERVER%20-%808080.svg?style=for-the-badge&logo=SQL+SERVER&logoColor=white)
 
 <br>
 
