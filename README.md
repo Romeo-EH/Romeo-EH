@@ -1,8 +1,9 @@
 
-<h1 align="center"><b>Hola , Soy Romeo Eguizabal Huaman </b><img src="none.png" width="70"></h1>
+<h1 align="center"><b>Hola, Soy Romeo Eguizabal Huaman </b><img src="none.png" width="70"></h1>
 
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=20&center=true&vCenter=true&width=600&height=100&lines=Self-taught+Backend+Developer;Software+Engineering+student+specializing+in+AI;Active+Learner/Researcher;Love+to+learn+new+things+and+solving+problems.."></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=20&center=true&vCenter=true&width=600&height=100&lines=Desarrollador+Backend+autodidacta
+;Estudiante+de+Ingeniería+de+Software+con+IA;Estudiante+apasionado+e+investigador;Me+gusta+aprender+cosas+nuevas+y+resolver+problemas.."></a>
 </p>
 
 <br>
@@ -13,6 +14,7 @@
 ## **About Me**
 <br>
 
+- Estudiante de Ingenieria de software
 - A passionate Self-taught Front-end developer
 - Playing CTF's at spare time
 - Currently learning Web Development by Self
